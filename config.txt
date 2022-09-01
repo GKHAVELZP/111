@@ -1,0 +1,16 @@
+{
+# 微信公众号配置
+"app_id": "appId",wxa99e8dd5166d9166
+"app_secret": "appSecret",edcf3449014725aa12f2aff5e54ed907
+"template_id": "模板id",IcjxFipG3txAgYhkiKdqCb5hQE6DNPP4PEmMD-VYYKw
+"user": ["微信号"], # 接收消息的微信号，多个微信用英文逗号间隔，例如["wx1", "wx2"]o84gy52rc17A3sWfBQODwOdMYKro
+# 信息配置
+"weather_key": "和风天气apikey",	
+b35fcb6335b046d98ae00811ab468970	
+"region": "株洲市天元区", # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
+"birthday1": {"name": "乖乖", "birthday": "2003-05-20"}, # 生日1，姓名和生日，生日若为农历在最前面加上r即可
+"birthday2": {"name": "克克", "birthday": "2003-01-18"}, # 生日2，同上
+"love_date": "2021-12-25", # 在一起的日期，暂不支持农历
+"note_ch": "在最好的时光，做想做的梦，去想去的地方", # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
+"note_en": "study hard and make progress every day!" # 金句英文
+}
